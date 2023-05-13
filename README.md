@@ -1,2 +1,0 @@
-# donyasport
-sport store
